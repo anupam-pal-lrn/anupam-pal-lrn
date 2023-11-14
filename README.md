@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Karm is Real
 
-🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
