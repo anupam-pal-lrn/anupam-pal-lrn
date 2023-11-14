@@ -1,14 +1,10 @@
 ### Hi, I'm Anupam Singh Pal 👋
 
-### I'm a Coder, Lead Programmer, and inventor.
-
-Here are some ideas to get you started:
+### I'm a Coder, Leader, and inventor.
 
 - 🔭 I’m currently working on Iteration Matrix Content!
-- 🌱 I’m currently learning AWS Cloud, ReactJS, React native.
-- 🤔 I’m looking for help with mobile applications.
+- 🌱 I’m currently learning AWS Cloud, ReactJS, React native and mobile applications.
 - 💬 Ask me about PHP, javascript, Programming, Coding, Full stack development 
-- 📫 How to reach me: pal.anupamsingh@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Karm is Real
 
