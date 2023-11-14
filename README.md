@@ -23,4 +23,4 @@
 [instagram]: https://instagram.com/anupamsinghpal
 [linkedin]: https://linkedin.com/in/anupamsinghpal
 [npm]: https://npmjs.com/~anupamsinghpal
-[brad]: https://github.com/anupamsinghpal
+[brad]: https://github.com/anupampalIM
