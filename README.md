@@ -2,7 +2,7 @@
 
 ### I'm a Coder, Leader, and inventor.
 
-- 🔭 I’m currently working on Iteration Matrix Content!
+- 🔭 I’m currently working on something excited!
 - 🌱 I’m currently learning AWS Cloud, ReactJS, React native and mobile applications.
 - 💬 Ask me about PHP, javascript, Programming, Coding, Full stack development 
 - 😄 Pronouns: HE/HIM
